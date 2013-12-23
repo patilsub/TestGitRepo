@@ -1,6 +1,5 @@
 package com.test.java;
 
-import org.tieto.java.testFirst;
 
 public class testjava {
 
@@ -11,8 +10,8 @@ public class testjava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		testjava f = new testjava();
-		//inner in = new testjava.inner();
-		
+		//inner in = new testjava.inner(); 
+		//test it..
 	}
 
 	public class inner {
