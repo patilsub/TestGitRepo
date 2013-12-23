@@ -1,4 +1,0 @@
-TestGitRepo
-===========
-
-Test Git repository
