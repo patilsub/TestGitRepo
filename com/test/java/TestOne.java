@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Vector;
 
-//testOne
+//testOne class
 public class TestOne {
 
 	/**
