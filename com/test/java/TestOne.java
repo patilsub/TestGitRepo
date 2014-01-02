@@ -28,5 +28,9 @@ public class TestOne {
 		V1.add("q");
 		
 	}
+	
+	public void method1(){
+		//nothing
+	}
 
 }
