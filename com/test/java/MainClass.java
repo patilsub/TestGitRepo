@@ -19,6 +19,6 @@ public class MainClass {
 	}
 
 	public void TestFunction(){
-		System.out.println("test Function");
+		System.out.println("test Function TestBranch");
 	}
 }
