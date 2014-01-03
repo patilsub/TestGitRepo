@@ -18,4 +18,7 @@ public class MainClass {
 		System.out.println("Print ");
 	}
 
+	public void TestFunction(){
+		System.out.println("test Function");
+	}
 }
