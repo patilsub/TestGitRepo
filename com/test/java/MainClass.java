@@ -17,5 +17,7 @@ public class MainClass {
 
 		System.out.println("Print ");
 	}
+	
+	//add another mothod
 
 }
