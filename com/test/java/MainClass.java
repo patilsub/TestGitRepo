@@ -21,6 +21,6 @@ public class MainClass {
 	//add another mothod
 
 	public void TestFunction(){
-		System.out.println("test Function");
+		System.out.println("test Function for TestGitRepoV1");
 	}
 }
