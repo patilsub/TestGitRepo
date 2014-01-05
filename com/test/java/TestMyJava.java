@@ -1,7 +1,7 @@
 package com.test.java;
 
 
-public class testjava {
+public class TestMyJava {
 
 	/**
 	 * @param args
@@ -9,7 +9,7 @@ public class testjava {
 	String str = "str";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		testjava f = new testjava();
+		TestMyJava f = new TestMyJava();
 		//inner in = new testjava.inner(); 
 		//test it..
 	}
