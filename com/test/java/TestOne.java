@@ -11,7 +11,8 @@ public class TestOne {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	//test commit
+ static void main(String[] args) {
 		// TODO Auto-generated method stub
 	/*	testjava testjava = new testjava();
 		testjava.inner inner = testjava.new inner();

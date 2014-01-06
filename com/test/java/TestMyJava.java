@@ -20,4 +20,5 @@ public class TestMyJava {
 			//System.out.println(str);
 		}
 	}
+	//test
 }
