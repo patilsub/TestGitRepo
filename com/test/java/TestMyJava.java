@@ -17,7 +17,9 @@ public class TestMyJava {
 	public class inner {
 		public String srt1 = "";
 		public void prnt(){
-			System.out.println(str + "");
+
+			System.out.println(str + " ");
+
 		}
 	}
 	//test
