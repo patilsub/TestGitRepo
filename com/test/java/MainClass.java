@@ -17,6 +17,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 
 		System.out.println("Print ");
+		System.out.println("Merge demo");
 	}
 	
 	//add another mothod
