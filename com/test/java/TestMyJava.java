@@ -12,6 +12,7 @@ public class TestMyJava {
 		TestMyJava f = new TestMyJava();
 		//inner in = new testjava.inner(); 
 		//test it..
+		System.out.println("test Hot fix merge");
 	}
 
 	public class inner {
