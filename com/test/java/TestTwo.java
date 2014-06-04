@@ -6,6 +6,6 @@ package com.test.java;
 public class TestTwo{
 	
 	public void sample(){
-		System.out.println("Nothing to print");
+		System.out.println("Nothing to print in TestGit repo");
 	}
 }

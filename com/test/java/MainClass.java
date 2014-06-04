@@ -16,7 +16,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Print ");
+		System.out.println("Print something");
 		System.out.println("Merge demo FOR hOTFIX");
 	}
 	
